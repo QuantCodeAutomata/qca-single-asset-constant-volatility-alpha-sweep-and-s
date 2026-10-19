@@ -1,0 +1,10 @@
+label,alpha,beta_0
+Low-vol defensive,0.0,-67.19064562170502
+Low-vol defensive,0.5,-56.69064562170502
+Low-vol defensive,1.0,-43.94064562170502
+Broad-equity index,0.0,-62.60924130071736
+Broad-equity index,0.5,-44.45299130071735
+Broad-equity index,1.0,-21.234241300717358
+High-vol growth,0.0,-70.39536500946012
+High-vol growth,0.5,-35.82505250946012
+High-vol growth,1.0,17.88588499053988
